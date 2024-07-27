@@ -1,6 +1,6 @@
 # Nashville Housing Data Cleaning with SQL
 
-![Project Logo](https://example.com/logo.png)
+![Project Logo](https://via.placeholder.com/150)
 
 This project involves cleaning and processing a dataset of Nashville housing data using SQL. The main objective is to prepare the dataset for further analysis by filling in missing values, separating address components, converting binary values to descriptive text, and removing duplicates.
 
@@ -32,16 +32,12 @@ This project demonstrates data cleaning techniques using SQL on a dataset contai
 - Removing duplicate records
 - Deleting unused columns
 
-![Data Cleaning](https://example.com/cleaning-process.png)
+![Data Cleaning](https://via.placeholder.com/600x300)
 
 ## Dataset
 
 The dataset used in this project is a CSV file containing information about properties in Nashville, including parcel IDs, addresses, sales data, and more.
 
-## SQL Queries
 
-### Viewing Dataset
 
-```sql
-SELECT * 
-FROM [Nashville Housing Data for Data Cleaning CSV];
+
